@@ -3,8 +3,11 @@
 
 -Relaciones entre clases: 
   Se crearon arreglos de objetos en sus respectivas clases y ciertos metodos para manejarlos
+  
   *En Estudiante: se crea arreglo de materias y se añaden los metodos agregarMateria, calcularPromedio
+  
   *En Carrera: se crea arreglo de estudiantes y se añaden los metodos agregarEstudiante, listarEstudiantes, buscarEstudiante
+  
   *En universidad: se crea arreglo de estudiantes
   
 -Validaciones metodo setter:      
