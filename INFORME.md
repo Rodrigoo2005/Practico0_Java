@@ -3,16 +3,9 @@
 
 -Relaciones entre clases: 
   Se crearon arreglos de objetos en sus respectivas clases y ciertos metodos para manejarlos
-  *En Estudiante: 
-    private Materia[] materias;
-    agregarMateria(Materia materia)
-    calcularPromedio()
-  *En Carrera:  
-    private Estudiante[] estudiantes;
-    agregarEstudiante()
-    listarEstudiantes()
-    buscarEstudiante()
-  *En universidad: private Estudiante[] estudiantes;
+  *En Estudiante: se crea arreglo de materias y se añaden los metodos agregarMateria, calcularPromedio
+  *En Carrera: se crea arreglo de estudiantes y se añaden los metodos agregarEstudiante, listarEstudiantes, buscarEstudiante
+  *En universidad: se crea arreglo de estudiantes
   
 -Validaciones metodo setter:      
   *edad > 16
