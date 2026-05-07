@@ -1,17 +1,24 @@
 # Practico0_Java
--Aplicacion del encapsulamiento: se declaro la mayoria de variables como 'private' y se implementaron los metodos 'getter' y 'setter'
+**1) Aplicacion del encapsulamiento:** 
 
--Relaciones entre clases: 
+Se declaro la mayoria de variables como 'private' y se implementaron los metodos 'getter' y 'setter'
+
+**2) Relaciones entre clases:** 
+
   Se crearon arreglos de objetos en sus respectivas clases y ciertos metodos para manejarlos
   
-  *En Estudiante: se crea arreglo de materias y se añaden los metodos agregarMateria, calcularPromedio
+    -En Estudiante: se crea arreglo de materias y se añaden los metodos agregarMateria, calcularPromedio
   
-  *En Carrera: se crea arreglo de estudiantes y se añaden los metodos agregarEstudiante, listarEstudiantes, buscarEstudiante
+    -En Carrera: se crea arreglo de estudiantes y se añaden los metodos agregarEstudiante, listarEstudiantes, buscarEstudiante
   
-  *En universidad: se crea arreglo de estudiantes
+    -En universidad: se crea arreglo de estudiantes
   
--Validaciones metodo setter:      
-  *edad > 16
-  *promedio >= 0 && promedio <= 10
-  *nombre != null
-  *apellido != null
+**3) Validaciones metodo setter:**      
+  
+    -edad > 16
+  
+    -promedio >= 0 && promedio <= 10
+  
+    -nombre != null
+  
+    -apellido != null
